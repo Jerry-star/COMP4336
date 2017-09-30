@@ -1,0 +1,7 @@
+#Sat Sep 30 13:18:59 AEST 2017
+base.0=C\:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_186d0129c0d82b75e51e7d4454e2fddf73295608
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d4b75cc27ea34e9f19ad89b4b2bb1c9a1376153\\classes.dex
+base.1=C\:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d4b75cc27ea34e9f19ad89b4b2bb1c9a1376153
+file.0=C\:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_186d0129c0d82b75e51e7d4454e2fddf73295608\\classes.dex

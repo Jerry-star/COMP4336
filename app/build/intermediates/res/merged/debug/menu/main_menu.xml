@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnuAbout"
+        android:title="@string/about" />
+    <item
+        android:id="@+id/mnuRescan"
+        android:title="@string/rescan" />
+    <item
+        android:id="@+id/mnuWifiDirect"
+        android:title="Wifi-Direct" />
+    <item
+        android:id="@+id/mnuBluetooth"
+        android:title="Bluetooth" />
+    <item
+        android:id="@+id/mnuSensor1"
+        android:title="Sensor1" />
+    <item
+        android:id="@+id/mnuSensor2"
+        android:title="Sensor2" />
+    <item
+        android:id="@+id/mnuTCP"
+        android:title="TCP" />
+</menu>

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_dialog.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\about_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_dialog.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\wifi_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\network_list_row.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\network_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_direct.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\wifi_direct.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sensor2.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\sensor2.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_in.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listitem.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\activity_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peer_list_row.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\peer_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\neighbour_list_row.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\neighbour_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\accelerometer.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\accelerometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\network_list.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\network_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sensor_list_row.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\sensor_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\client.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\client.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sensor.xml",
+        "source": "C:\\Users\\zhyuan\\AndroidStudioProjects\\wifi-scanner-master\\app\\src\\main\\res\\layout\\sensor.xml"
+    }
+]
