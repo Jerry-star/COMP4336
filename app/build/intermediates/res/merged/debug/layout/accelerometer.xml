@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnAcc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="display Acc" />
+
+    <Button
+        android:id="@+id/btnOri"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="display ori" />
+
+    <TextView
+        android:id="@+id/txtAcc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium" />
+
+    <TextView
+        android:id="@+id/txtOri"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+</LinearLayout>
